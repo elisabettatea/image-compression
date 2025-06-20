@@ -173,6 +173,7 @@ We define \( A_3 \) to apply this operation: `A3 * v`.
 | Smoothed (Hav2)       | ![](./output%20images/output_smooth.png)|
 | Sharpened (Hsh2)      | ![](./output%20images/output_sharp.png)|
 | Edge Detection (Hlap) | ![](./output%20images/output_edge.png) |
+| Denoised (A₂x = w)    | ![](./output%20images/x_image.png)     |
 | Denoised ((I+A₃)y=w)  | ![](./output%20images/y_image.png)     |
 
 </div>
