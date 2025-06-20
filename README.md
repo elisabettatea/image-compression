@@ -169,12 +169,12 @@ We define \( A_3 \) to apply this operation: `A3 * v`.
 | Step                  | Output                               |
 |-----------------------|--------------------------------------|
 | Original              | ![](./images/einstein.jpg)           |
-| Noisy Image           | ![](./output images/output_noise.png)|
-| Smoothed (Hav2)       | ![](./output images/output_smooth.png)|
-| Sharpened (Hsh2)      | ![](./output images/output_sharp.png)|
-| Edge Detection (Hlap) | ![](./output images/output_edge.png) |
-| Denoised (A₂x = w)    | ![](./output images/x_image.png)     |
-| Denoised ((I+A₃)y=w)  | ![](./output images/y_image.png)     |
+| Noisy Image           | ![](./output%20images/output_noise.png)|
+| Smoothed (Hav2)       | ![](./output%20images/output_smooth.png)|
+| Sharpened (Hsh2)      | ![](./output%20images/output_sharp.png)|
+| Edge Detection (Hlap) | ![](./output%20images/output_edge.png) |
+| Denoised (A₂x = w)    | ![](./output%20images/x_image.png)     |
+| Denoised ((I+A₃)y=w)  | ![](./output%20images/y_image.png)     |
 
 </div>
 
