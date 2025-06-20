@@ -1,5 +1,5 @@
 
-# Challenge 1 - Image Filtering and Denoising 🧠🖼️
+# Image Filtering and Denoising 🧠🖼️
 
 Welcome to Challenge 1 of the **Numerical Linear Algebra** course (Politecnico di Milano, A.A. 2024/2025)!  
 In this project, we apply tools from linear algebra—particularly sparse matrices and iterative solvers—to the task of image filtering and denoising.  
